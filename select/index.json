@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "祝福 - Shukufuku",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-02-28T17:24:37.956936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_祝福_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_祝福_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "純音樂",
+      "has_synced": false,
+      "path": "select/03_祝福_純音樂.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_祝福_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/05_祝福_早見沙織.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/06_祝福_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/07_祝福_張學友.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_祝福_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI/Ayase",
+      "has_synced": true,
+      "path": "select/09_祝福_YOASOBI_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_祝福_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "Horie, Yui・Kurata, Masayo・Asakawa, Yuu・Takagi, Reiko・Noda, Junko・Yukino, Satsuki・Kobayashi, Yumiko",
+      "has_synced": false,
+      "path": "select/11_祝福_Horie,_Yui・Kurata,_Masayo・Asakawa,_Yuu・Takagi,_Reiko・Noda,_Junko・Yukino,_Satsuki.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/12_祝福_張學友.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/13_祝福_张学友.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/14_祝福_张学友.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "Sally Yeh",
+      "has_synced": true,
+      "path": "select/15_祝福_Sally_Yeh.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "祝福",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/16_祝福_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祝福",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_祝福_YOASOBI.txt"
+    }
+  ]
+}
